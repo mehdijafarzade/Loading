@@ -1,0 +1,13 @@
+.Link1{
+    display: flex;
+    height: 35vw;
+    justify-content: center;
+    align-items: center;
+}
+.link{
+    padding: 10px 20px;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 10px;
+    margin-left: 5px;
+}
